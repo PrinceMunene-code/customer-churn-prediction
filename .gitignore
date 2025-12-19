@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Data (never commit real data)
+data/raw/
+data/processed/
+
+# Models
+models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+
+.DS_Store
+Thumbs.db
