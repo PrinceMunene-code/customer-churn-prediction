@@ -89,7 +89,7 @@ A Streamlit application was built to make the model accessible to non-technical 
 ```bash
 pip install -r requirements.txt
 streamlit run app/app.py
-
+```
 ---
 
 ## Project Structure
