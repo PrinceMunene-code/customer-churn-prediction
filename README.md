@@ -93,6 +93,7 @@ streamlit run app/app.py
 ---
 
 ## Project Structure
+```
 customer-churn-prediction/
 ├── app/
 │   └── app.py                 # Streamlit application
@@ -105,6 +106,8 @@ customer-churn-prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+---
 
 ## Tools & Technologies
 - Python
